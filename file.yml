@@ -1,0 +1,34 @@
+default: &default_settings
+  language: Eng1ish
+  country: Russia
+
+string: "Малышев Михаил Сергеевич"
+integer: 22             
+hex: 0x1AE     
+   
+
+current_status: |
+  Группа ПИ-430Б
+  Прикладная информатика
+  Студент
+
+str: About me
+
+data : >
+  офик
+  
+
+data : |
+  офик
+  
+
+skills:
+  - Yaml
+  - Docker
+
+Projects:
+  - coursework:
+      status: In Progress
+  - hobby:
+      topic: Design
+      status: Active
